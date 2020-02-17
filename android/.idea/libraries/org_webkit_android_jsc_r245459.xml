@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.webkit:android-jsc-r245459">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/eea40f79bda10dd42d9cda11e35e7d4a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/eea40f79bda10dd42d9cda11e35e7d4a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
